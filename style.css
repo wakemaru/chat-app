@@ -2,3 +2,7 @@ body{
   margin:0;
   padding:0;
 }
+//10px for font size
+html{
+  font-size:63.5%;
+}
